@@ -2,7 +2,7 @@
   "id": 3,
   "name": "SuperTux",
   "author": "git-effl",
-  "category": "game",
+  "category": "port",
   "platform": "vita",
   "titleid": "STUX00040",
   "repo": "git-effl/supertux-vita",
