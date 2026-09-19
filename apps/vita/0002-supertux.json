@@ -1,0 +1,17 @@
+{
+  "id": 2,
+  "name": "SuperTux",
+  "author": "git-effl",
+  "category": "game",
+  "platform": "vita",
+  "titleid": "STUX00040",
+  "repo": "git-effl/supertux-vita",
+  "asset": "*.vpk",
+  "prerelease": false,
+  "icon": "0002-supertux.png",
+  "description": "A PSVita port of SuperTux,version 0.40.",
+  "requirements": "",
+  "screenshots": [],
+  "trophies": false,
+  "ai": false
+}
